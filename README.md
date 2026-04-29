@@ -1,6 +1,6 @@
 # awesome-open-education
 
-😎 Awesome list about open-source software and open-material in education.
+ð Awesome list about open-source software and open-material in education.
 
 ![Awesome logo](./media/logo.svg)
 
@@ -27,3 +27,5 @@ For open educational material(OEM), only [creative commons licences](https://cre
 ### Knowledge
 
 - [wikipedia](https://wikipedia.org) the famous open encyclopedia licensed under CC-BY-SA.
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
